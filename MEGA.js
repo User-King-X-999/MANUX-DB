@@ -1,3 +1,3 @@
 {
-"MEGA":"https://mega.nz/file/nAkgzJzB#f2kZHZe2hShzkP6jUkOQpDBWekacMeaOTrjjjoIxV8o"
+"MEGA":"https://mega.nz/file/DF13HLTa#wjyAjyLAvpaBSdmEtYL7BQ2YNJ8JaPSMA-FXLwQ23I4"
 }
